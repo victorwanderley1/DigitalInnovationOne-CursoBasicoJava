@@ -8,6 +8,7 @@ public class ExemploInstanciaObjeto {
 
         System.out.println(pessoa.getNome());
         // Marco
+        System.out.println(pessoa.andar());
 
     }
 
